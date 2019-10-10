@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-SampleRave-SampleRaveUITests/Pods-SampleRave-SampleRaveUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BSErrorMessageView/BSErrorMessageView.framework
+${BUILT_PRODUCTS_DIR}/CreditCardValidator/CreditCardValidator.framework
+${BUILT_PRODUCTS_DIR}/DynamicBlurView/DynamicBlurView.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/KVNProgress/KVNProgress.framework
+${BUILT_PRODUCTS_DIR}/PopupDialog/PopupDialog.framework
+${BUILT_PRODUCTS_DIR}/Shimmer/Shimmer.framework
+${BUILT_PRODUCTS_DIR}/SwiftValidator/SwiftValidator.framework
